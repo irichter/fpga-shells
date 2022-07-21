@@ -30,7 +30,7 @@ while {[llength $argv]} {
       set argv [lassign $argv[set argv {}] env_var_srcs]
     }
     default {
-      return -code error [list {unknown option} $flag]
+      #return -code error [list {unknown option} $flag]
     }
   }
 }
