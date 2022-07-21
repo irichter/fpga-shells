@@ -116,7 +116,7 @@ class arty100tmig(depth : BigInt)(implicit val p:Parameters) extends BlackBox
       <LowPower_En>ON</LowPower_En>
       <XADC_En>Enabled</XADC_En>
       <TargetFPGA>xc7a100t-csg324/-1</TargetFPGA>
-      <Version>4.1</Version>
+      <Version>4.2</Version>
       <SystemClock>No Buffer</SystemClock>
       <ReferenceClock>No Buffer</ReferenceClock>
       <SysResetPolarity>ACTIVE HIGH</SysResetPolarity>
